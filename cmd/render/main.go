@@ -18,6 +18,7 @@ const (
 var modules = []string{
 	"kube-ipam",
 	"go-firewalld",
+	"routerd.github.io",
 }
 
 var (
