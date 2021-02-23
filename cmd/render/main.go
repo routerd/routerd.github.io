@@ -47,8 +47,7 @@ var (
 </body>
 </html>`
 
-	redirectsTemplateString = `
-{{ range $module := .Modules -}}
+	redirectsTemplateString = `{{ range $module := .Modules -}}
 /{{$module }}/* go-get=1 /{{$module }}/index.html 200
 {{ end }}`
 )
