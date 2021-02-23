@@ -1,4 +1,3 @@
-
 /kube-ipam/* go-get=1 /kube-ipam/index.html 200
 /go-firewalld/* go-get=1 /go-firewalld/index.html 200
 /routerd.github.io/* go-get=1 /routerd.github.io/index.html 200
