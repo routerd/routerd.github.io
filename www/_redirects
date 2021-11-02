@@ -1,6 +1,6 @@
-/kube-ipam/* go-get=1 /kube-ipam/index.html 200
 /go-firewalld/* go-get=1 /go-firewalld/index.html 200
 /routerd.github.io/* go-get=1 /routerd.github.io/index.html 200
 /kube-dhcp/* go-get=1 /kube-dhcp/index.html 200
 /machinery/* go-get=1 /machinery/index.html 200
 /routerd/* go-get=1 /routerd/index.html 200
+/go-systemd/* go-get=1 /go-systemd/index.html 200
