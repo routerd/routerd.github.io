@@ -16,12 +16,12 @@ const (
 // Add new go modules here and
 // then execute `go run ./cmd/render`
 var modules = []string{
-	"kube-ipam",
 	"go-firewalld",
 	"routerd.github.io",
 	"kube-dhcp",
 	"machinery",
 	"routerd",
+	"go-systemd",
 }
 
 var (
